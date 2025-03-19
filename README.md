@@ -19,12 +19,6 @@ The case study examines:
    - Meta sought to **dominate the messaging space**, preventing competition and ensuring **ecosystem expansion**.
    - Integration with **Facebook and Instagram** strengthened user retention and engagement.
 
-## Repository Contents
-- **`notebooks/`**: Jupyter Notebooks containing DCF valuation models, projections, and sensitivity analysis.
-- **`data/`**: Relevant datasets used for user growth, engagement, and financial modeling.
-- **`reports/`**: The final case study report detailing findings and insights.
-- **`visualizations/`**: Graphs and charts illustrating valuation trends and acquisition rationale.
-
 ## Tools & Methodologies Used
 - **Financial Modeling:** DCF valuation, sensitivity analysis
 - **Python:** Pandas, NumPy, Matplotlib for data processing and visualization
